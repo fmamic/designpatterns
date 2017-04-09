@@ -1,4 +1,4 @@
-package org.fmamic.design.patterns.observer;
+package org.fmamic.design.patterns.observer.weather;
 
 import java.util.ArrayList;
 import java.util.List;

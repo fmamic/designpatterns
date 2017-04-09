@@ -1,7 +1,7 @@
-package org.fmamic.design.patterns.observer;
+package org.fmamic.design.patterns.observer.weather;
 
-import org.fmamic.design.patterns.observer.display.CurrentCondition;
-import org.fmamic.design.patterns.observer.display.Forecast;
+import org.fmamic.design.patterns.observer.weather.display.CurrentCondition;
+import org.fmamic.design.patterns.observer.weather.display.Forecast;
 import org.junit.Test;
 
 public class WeatherDataTest {

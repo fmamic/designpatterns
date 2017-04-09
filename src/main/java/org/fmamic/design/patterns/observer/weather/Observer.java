@@ -1,4 +1,4 @@
-package org.fmamic.design.patterns.observer;
+package org.fmamic.design.patterns.observer.weather;
 
 public interface Observer {
 

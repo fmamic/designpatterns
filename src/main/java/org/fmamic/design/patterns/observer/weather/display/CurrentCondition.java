@@ -1,6 +1,6 @@
-package org.fmamic.design.patterns.observer.display;
+package org.fmamic.design.patterns.observer.weather.display;
 
-import org.fmamic.design.patterns.observer.Observer;
+import org.fmamic.design.patterns.observer.weather.Observer;
 
 public class CurrentCondition implements Observer, Display {
 
